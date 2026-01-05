@@ -7,7 +7,7 @@ Welcome to **শব্দতরী: Where Dialects Flow into Bangla**, a flagshi
 The competition features **audio recordings from 20 regional dialects across Bangladesh**, with the task of transcribing dialectal speech into formal Bangla text evaluated using **Normalized Levenshtein Similarity**.
 
 - **Kaggle Competition:** [শব্দতরী on Kaggle](https://www.kaggle.com/competitions/shobdotori/overview)
-- 
+
 ## Model & Results
 
 For this problem, we used the **[`openai/whisper-medium`](https://huggingface.co/openai/whisper-medium)** model for automatic speech recognition (ASR) of Bangladeshi dialects.
